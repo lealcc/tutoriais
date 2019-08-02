@@ -43,5 +43,4 @@ picker.selectedIndex.monitor().subscribe(function(val) {
    objetodacena.material = configuration.mats[val.newValue].material;
 });
 
-//alternativamente voce pode usar ele pra trocar materiais
-// objetodacena.material = configuration.mats[val.newValue].material;
+//Me adicione no Intagram @leal.rar
