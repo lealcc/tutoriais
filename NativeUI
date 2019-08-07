@@ -1,4 +1,11 @@
-/PICKER CONFIGURATION (Lembre de ativar as Capabilities nas configuracoes do spark)
+const Diagnostics = require('Diagnostics');
+const Scene = require('Scene');
+const TouchGestures = require('TouchGestures');
+const NativeUI = require('NativeUI');
+const Textures = require('Textures');
+const Materials = require('Materials');
+
+//PICKER CONFIGURATION (Lembre de ativar as Capabilities nas configuracoes do spark)
 
 //Comece identificando onde esta o objeto que voce quer alterar 
 const objetodacena = Scene.root.find("d1");
